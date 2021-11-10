@@ -1,6 +1,6 @@
-SpringSecurity Oauth2.0 study demo
-
-说明 Oauth2 使用数据库方式实现 未使用JWT令牌
+SpringSecurity+OAuth2
+原始的OAuth2.0 授权DEMO 可用来学习OAuth2.0 来用
+使用数据库方式实现 未使用JWT令牌 
 
 **第一步：用户授权**
 http://localhost:9001/oauth/authorize?response_type=code&client_id=heima_two
